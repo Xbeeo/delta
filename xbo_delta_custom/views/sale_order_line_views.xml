@@ -14,6 +14,10 @@
                            string="Total Pcs"
                            class="fw-bold"
                            readonly="1"/>
+                    <field name="total_cartons"
+                           string="Total Cartons"
+                           class="fw-bold"
+                           readonly="1"/>
                 </group>
             </xpath>
         </field>
